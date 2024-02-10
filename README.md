@@ -9,7 +9,7 @@ $$ P(X|e) = \alpha P(X,e) = \alpha \sum_{y} P(X,e,y) $$
 
 Where:
 - $X$ is a query variable (a variable we want to know)
-- $e$ is evdidence
+- $e$ is evidence
 - $y$ is the range of values for hidden variables
 - $\alpha$ normalizes the result
 
